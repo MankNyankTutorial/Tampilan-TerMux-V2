@@ -5,19 +5,19 @@ $ pkg update && pkg upgrade
 $ pkg install ruby cowsay toilet figlet
 $ pkg install nano
 $ gem install lolcat
-~~~~~NEW SESSION~~~~~
+NEW SESSION 
 *Ini digunakan untuk menghilangkan tulisan "Welcome blablabla" bawaan termux
 $ cd ../
 $ cd usr
 $ cd etc
 $ rm -rf motd
-~~~~~NEW SESSION~~~~~
+NEW SESSION
 $ termux-setup-storage
 $ nano .bashrc
    #Paste Script (nano .bashrc)
 *Pastikan script berwarna warni, kalau masih serba putih, ikuti langkah-langkah sesuai urutan sebelumnya... Pastikan juga di setiap akhir baris tulisan ada jeda berwarna hijau, jika tidak ada, bisa ditambahkan sendiri dengan memberikan "spasi"
    #Save (CTRL+X)
-~~~~~NEW SESSION~~~~~
+NEW SESSION
 $ cd ../
 $ cd usr
 $ cd etc
