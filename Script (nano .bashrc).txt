@@ -13,9 +13,9 @@ toilet -f standard " WELCOME " -F gay
 echo -e $blue'======================================================'
 echo Login With...| lolcat
 echo -e $red'======================================================'
-echo Username-: Azfa 96 | lolcat
+echo Username-: Mank Nyank | lolcat
 echo Password-: xxxxxxx | lolcat
-echo Group----: 4 Pakem Cyber Army | lolcat
+echo Group----: Cyber Indonesia | lolcat
 echo Forum----: Anonymous Indonesia | lolcat
 echo -e $yellow'======================================================'
 date | lolcat
