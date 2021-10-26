@@ -8,7 +8,7 @@ white='\e[1;37m'
 yellow='\e[1;33m'
 NOW=`date "+%d.%m.%Y"`
 TIME=`date "+%H:%M"`
-cowsay -f eyes SUKSES UN 2019 | lolcat
+cowsay -f eyes MNT | lolcat
 toilet -f standard " WELCOME " -F gay
 echo -e $blue'======================================================'
 echo Login With...| lolcat
